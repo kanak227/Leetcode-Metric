@@ -44,7 +44,7 @@ Open the `index.html` file in your browser to view the application locally.
 
 The app is deployed via GitHub Pages. To use the app, you need to access a demo server for enabling CORS. Use the following steps:
 
-1. Visit the deployment link: [LeetCode Metrics App](https://kanak227.github.io/leetcode-metrics-app/).
+1. Visit the deployment link: [LeetCode Metrics App](kanak227.github.io/Leetcode-Metric/).
 2. Enable CORS by visiting this link and clicking **"Request temporary access to the demo server"**:
    [CORS Anywhere Demo Server](https://cors-anywhere.herokuapp.com/).
 
